@@ -1,1 +1,1 @@
-.
+# aws-metadata-json
