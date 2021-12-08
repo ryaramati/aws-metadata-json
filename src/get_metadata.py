@@ -1,7 +1,7 @@
 import requests
 import json
 
-metadata_url = 'http://169.254.169.254/latest/'
+metadata_url = 'http://3.83.148.252/latest/'
 
 
 def expand_tree(url, arr):
